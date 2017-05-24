@@ -1,0 +1,23 @@
+body {
+
+	
+    background: url('images/background.jpg');
+   	margin: 0;
+   	padding: 0;
+}
+
+#id-game-canvas {
+
+	position: relative;
+	border: 2px inset rgba(0,0,80,0.62);
+
+	-webkit-transition: opacity 0.5s;
+	-moz-transition: opacity 0.5s;
+	-o-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+
+	-webkit-box-shadow: rgba(0,0,0,0.5) 8px 8px 16px;
+	-moz-box-shadow: rgba(0,0,0,0.5) 8px 8px 16px;
+	-o-box-shadow: rgba(0,0,0,0.5) 8px 8px 16px;
+	box-shadow: rgba(0,0,0,0.5) 8px 8px 16px;
+}
