@@ -18,18 +18,18 @@
   
 # FeedingFrenzy.github.io
 # How to play:
-  - Use mouse to eat fish
+  - Use mouse to eat fish.
   - Press the 'p' key to pause the game.
-  - And the 'm' key to pause or resume music.
+  - And the 'm' key to pause or resume music.
 # How to calculate points:
-  - Eat slowly from baby fish to big fish, check the progress bar to see which fish that you can eat.
-  - When begin you can eat orange fish after level up eats blue fish, then goldfish.
-  - You can not eat sharks.
-  - When you eat fish are not allowed to eat, you will lose one heart, lose three heart, you will lose.
-  - When you lose a heart, you cannot do anything for 3 seconds
-  - Once level up, the number of heart will be back to 3.
-  - Eat enough to complete three levels you win the game.
+  - Eat slowly from baby fish to big fish, check the progress bar to see which fish that you can eat.
+  - When begin you can eat orange fish after level up eats blue fish, then goldfish.
+  - You can not eat sharks.
+  - When you eat fish are not allowed to eat, you will lose one heart, lose three heart, you will lose.
+  - When you lose a heart, you cannot do anything for 3 seconds
+  - Once level up, the number of heart will be back to 3.
+  - Eat enough to complete three levels you win the game.
 # Information
-  - This is a mini-game made on HTML5's Canvas
-  - Source code is public on https://github.com/FeedingFrenzy/FeedingFrenzy.github.io/
-  - Any inquiries contact vinhkhang2324@gmail.com with the title Feeding Frenzy
+  - This is a mini-game made on HTML5's Canvas
+  - Source code is public on https://github.com/FeedingFrenzy/FeedingFrenzy.github.io/
+  - Any inquiries contact vinhkhang2324@gmail.com with the title Feeding Frenzy
